@@ -52,4 +52,4 @@ Each button correspond to an LED and each time you push a button its LED should 
 </details>
 
 ## BONUS
-Try to read all the buttons states only by reading on a analog intput pin.
+Try to read all the buttons states only by reading on a analog input pin.
