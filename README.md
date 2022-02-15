@@ -17,7 +17,7 @@ To carry out this mini-project, you need to create an account on [Tinkercad](htt
 
 ## Milestone n°1: Setup your colors
 **Instruction**: The first thing you want to do is to have 4 buttons and 4 LEDs.
-Each button correspond to an LED and each time you push a button its LED should turn on for a choosen amount of time, at the same time you should play a sound wich depends on the button you pushed.
+Each button correspond to an LED and each time you push a button its LED should turn on for a choosen amount of time, at the same time you should play a sound which depends on the button you pushed.
 
 <details>
     <summary> 🛠 Required material:</summary>
@@ -52,4 +52,7 @@ Each button correspond to an LED and each time you push a button its LED should 
 </details>
 
 ## BONUS
-Try to read all the buttons states only by reading on a analog input pin.
+Here are few things that you can add if you have finished this mini-project:
+* Try to read all the buttons states only by reading on a analog input pin.
+* Increase the speed while the sequence is getting longer.
+* Replace the led that tells when the game is over with a RGB LED that indicates who's turn is it and when the game is over using different colors.
