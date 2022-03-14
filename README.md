@@ -56,3 +56,5 @@ Here are few things that you can add if you have finished this mini-project:
 * Try to read all the buttons states only by reading on a analog input pin.
 * Increase the speed while the sequence is getting longer.
 * Replace the led that tells when the game is over with a RGB LED that indicates who's turn is it and when the game is over using different colors.
+
+Super c'est fini
